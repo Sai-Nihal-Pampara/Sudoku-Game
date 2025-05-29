@@ -32,6 +32,11 @@ The backtracking algorithm operates as follows:
 6)Backtrack if no valid digit can be placed, and try the next possible digit.
 7)This process continues until the grid is completely filled with valid digits.
 
+**🛠️ Features**
+1)Solves any valid 9x9 Sudoku puzzle.
+2)Utilizes a recursive backtracking approach.
+
+
 
 📸 Example
 Given the following Sudoku puzzle:
@@ -43,10 +48,4 @@ The solver will output the completed puzzle:
 
 
 Thank You!
-
-
-🛠️ Features
-1)Solves any valid 9x9 Sudoku puzzle.
-2)Utilizes a recursive backtracking approach.
-
 
